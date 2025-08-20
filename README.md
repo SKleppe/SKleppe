@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SKleppe
-- 👀 I’m interested in data analysis, particularly exploring data with SQL
-- 🌱 I’m currently working on the Google Data Analytics Professional Certificate.
-- 💞️ I’m looking to collaborate on beginner level projects to develop my data analytic and SQL skills
-- 😄 Pronouns: She/Her
+- 👀 I’m interested in data analytics, particularly exploring data with R, SQL & Python
+- 🌱 I earned my Google Data Analytics Professional Certificate.
+- 💞️ I’m looking to collaborate on beginner level projects to develop my data analytic, R, SQL, and Python skills
 <!---
 - 📫 How to reach me:
 --->
